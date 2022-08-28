@@ -1,3 +1,7 @@
+## Example: Downsampling, Dithering & Color Grading
+
+![demo](./examples/sampling-dithering-color_grading.gif)
+
 # Post Processing Pipeline For Unity
 
 This is a demo project to show some post-processing shaders I can do.
@@ -14,12 +18,6 @@ These effects are modular only for ease of experimentation. Once desired effect 
 * * Downsampling
 * * Dithering
 * * Color Palette Swapping
-
-# Examples
-
-## Downsampling, Dithering & Color Grading
-
-![demo](./examples/sampling-dithering-color_grading.gif)
 
 # References
 
